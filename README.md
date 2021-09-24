@@ -1,6 +1,10 @@
 # weatherbitqachallenge
 This is an exercise to create automated API tests using Weatherbit API
 
+# Download
+- you can clone using GIT
+"$git clone https://github.com/chartkun/weatherbitqachallenge.git"
+
 # Required Software and Tools
 - JAVA
 - MAVEN
